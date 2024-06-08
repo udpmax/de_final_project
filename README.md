@@ -1,4 +1,4 @@
-# Maxim's NAYA College Data Engineer Final Project
+# NAYA College Data Engineer Final Project - Maxim Dahav
 
 ## Name
 ETL for TLV airport
