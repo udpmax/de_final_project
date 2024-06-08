@@ -1,0 +1,13 @@
+boto3
+botocore
+ipython
+kafka-python
+plotly
+pyspark
+requests
+requests-toolbelt
+SQLAlchemy
+SQLAlchemy-JSONField
+SQLAlchemy-Utils
+IPython
+psycopg2
